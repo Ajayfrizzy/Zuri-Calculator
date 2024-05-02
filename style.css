@@ -87,18 +87,6 @@ td{
     background-color: rgb(190, 92, 1);
 }
 
-#clear{
-    background-color: #555454;
-    color: #fff;
-}
-
-#clear:hover{
-    background-color: #312f2f;
-}
-
-#clear:active{
-    background-color: #1f1b1b;
-}
 
 @media(max-width: 999.99px){
     table{
